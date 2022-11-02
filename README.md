@@ -1,6 +1,10 @@
 # WebCamera demo
 
-run `python run_gui.py` and after model initialization it show window with motion transfer from web camera to given image. Can be usefull with virtual web camera in OBS Studio for zoom calls
+```python run_gui.py```
+
+Run script and after model initialization it show window with motion transfer from web camera to given image. Can be usefull with virtual web camera in OBS Studio for zoom calls
+
+https://raw.githubusercontent.com/attashe/Thin-Plate-Spline-Motion-Model/main/assets/test_2.mp4
 
 # [CVPR2022] Thin-Plate Spline Motion Model for Image Animation
 
