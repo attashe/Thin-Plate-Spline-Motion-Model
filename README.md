@@ -1,6 +1,8 @@
 # WebCamera demo
 
-```python run_gui.py```
+```
+python run_gui.py
+```
 
 Run script and after model initialization it show window with motion transfer from web camera to given image. Can be usefull with virtual web camera in OBS Studio for zoom calls
 
